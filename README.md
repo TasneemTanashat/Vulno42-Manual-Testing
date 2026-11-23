@@ -8,9 +8,11 @@ The platform provides hands-on learning experiences through interactive web secu
 
 This repository documents my Quality Assurance (QA) contributions to the project, focusing on manual testing, identifying issues, and verifying application functionality and user experience.
 
+
 ## My Role – Quality Assurance Engineer
 
 Responsible for performing manual testing to evaluate the platform's functionality, usability, and content accuracy.
+
 
 ## Testing Scope
 
@@ -38,10 +40,9 @@ Responsible for performing manual testing to evaluate the platform's functionali
 
 ## Tools Used
 
-- Manual Testing
-- Microsoft Word
-- Web Browser
-- Git & GitHub
+- Microsoft Excel – Test Case Design and Bug Reporting
+- GitHub – Project Files and Documentation
+- Web Browser – Application Testing
 
 ## Program & Acknowledgements
 
