@@ -60,7 +60,6 @@ The program is supported by the **Crown Prince Foundation** and the **Abdulla Al
 **Eng. Tasneem Tanashat**  
 Computer Engineer | Junior QA Engineer
 
-- [LinkedIn](https://www.linkedin.com/in/tasneem-tanashat/)
 
 ---
 
